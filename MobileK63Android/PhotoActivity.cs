@@ -12,7 +12,7 @@ using System.Text;
 
 namespace MobileK63Android
 {
-    [Activity(Label = "PhotoActivity", MainLauncher = true)]
+    [Activity(Label = "PhotoActivity")]
     public class PhotoActivity : Activity
     {
         Button btCamera;

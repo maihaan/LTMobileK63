@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AQWYiHZN1CAxtW+y6l2Wx4KQ6T5CNM+p2jWFm7DpG07R0F7mz5Z6IPkAWdBt9Yzei9KqEimNVkYnJEHJgYVLFw==",
+  "dgSpecHash": "UtKTM36+UvgRFXfULDGhZ2gn4O84Lm31LlTb0VoJuNpPjf0N09+yPWt0mUvtNF9T+cu5aZOJ6IuBbkJFfERjxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\MobileK63Android\\MobileK63Android\\MobileK63Android.csproj",
+  "projectFilePath": "D:\\GitHub\\LTMobileK63\\LTMobileK63\\MobileK63Android\\MobileK63Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.3\\xamarin.androidx.activity.1.1.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\xamarin.androidx.annotation\\1.1.0.7\\xamarin.androidx.annotation.1.1.0.7.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\MobileK63Android\\MobileK63Android\\MobileK63Android.csproj": {}
+    "D:\\GitHub\\LTMobileK63\\LTMobileK63\\MobileK63Android\\MobileK63Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\MobileK63Android\\MobileK63Android\\MobileK63Android.csproj": {
+    "D:\\GitHub\\LTMobileK63\\LTMobileK63\\MobileK63Android\\MobileK63Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\MobileK63Android\\MobileK63Android\\MobileK63Android.csproj",
+        "projectUniqueName": "D:\\GitHub\\LTMobileK63\\LTMobileK63\\MobileK63Android\\MobileK63Android.csproj",
         "projectName": "MobileK63Android",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\MobileK63Android\\MobileK63Android\\MobileK63Android.csproj",
+        "projectPath": "D:\\GitHub\\LTMobileK63\\LTMobileK63\\MobileK63Android\\MobileK63Android.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\MobileK63Android\\MobileK63Android\\obj\\",
+        "outputPath": "D:\\GitHub\\LTMobileK63\\LTMobileK63\\MobileK63Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -39,6 +39,10 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Xamarin.AndroidX.AppCompat": {
               "target": "Package",
               "version": "[1.2.0.5, )"
